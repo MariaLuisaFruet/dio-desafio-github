@@ -1,0 +1,5 @@
+Abrir na pasta que vai colocar o projeto e clicar com o botão direito do Mouse e colocar "abrir com git bash here"
+
+digitar git clone e colar o link do repositorio que foi criado no GitHub
+
+Depois que fizer alterações na pasta, como criar novas pastas e novos arquivos, entrar novamente na pasta o git, coloca cd e o caminho da pasta e colocar git add . e depois git commit -m "" e colocar a descrição do que foi alterado dentro das aspas, depois git push origin master

@@ -1,0 +1,6 @@
+Formato CamelCase - São usados letras maiusculas na letra inicial de cada palavra, mas a primeira letra é minuscula 
+
+"" - As aspas servem para mostrar que o que esta escrito é um String
+
+toFixed - Comano para determinar a quantidade de casas decimais tem o resultado
+ex: var notaFixda = notaFinal.toFixes(1) (o resultado vai ter apenas uma casa decimal após a virgula) 
